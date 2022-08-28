@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.kuleuven.speculaas.opgave4.VerkoopsterIntegrationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-26T17:36:12" hostname="jero-ROG-Strix-G513IH-G513IH" time="0.311">
+  <properties/>
+  <testcase name="erIsKortingWanneerMeerDan5StuksVerkochtWorden()" classname="be.kuleuven.speculaas.opgave4.VerkoopsterIntegrationTest" time="0.307"/>
+  <testcase name="erWordtNiksVerkocht()" classname="be.kuleuven.speculaas.opgave4.VerkoopsterIntegrationTest" time="0.001"/>
+  <testcase name="erIsGeenKortingWanneerMinderDanZesSpeculazen()" classname="be.kuleuven.speculaas.opgave4.VerkoopsterIntegrationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
